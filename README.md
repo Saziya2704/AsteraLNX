@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AsteraLNX — Enterprise Logistics Management Platform
 
 Internal logistics system for managing customers, orders, warehouses, shipments, drivers, GPS tracking, invoices and reports.
@@ -220,3 +221,6 @@ Without SMTP configured, the OTP and link are printed in the **application log**
 ---
 
 Built as a portfolio / interview-ready enterprise logistics monolith.
+=======
+# AsteraLNX
+>>>>>>> 5c20528c36abf3a2975b8ce0af4fd560fc9b574e
